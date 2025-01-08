@@ -1,8 +1,6 @@
 import { createGlobalStyle } from "styled-components"
 import { Board } from "./components/Board"
-import { IAchievement } from "./types/IAchievement"
-import { useMemo, useState } from "react"
-import { useStoredState } from "./hooks/useStoredState"
+
 import { board2025 } from "./data/2025"
 
 const GlobalStyle = createGlobalStyle`

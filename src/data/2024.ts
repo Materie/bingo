@@ -1,6 +1,4 @@
-import { IAchievement } from "../types/IAchievement"
-
-export const data2024: IAchievement[][] = [
+export const data2024: any[][] = [
 	[
 		{
 			title: "Heksas Studie",
